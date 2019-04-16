@@ -1,2 +1,2 @@
 FROM tomcat:8.0.20-jre8
-COPY C:\Users\Bhanu Prakaash Oleti\git\repository\JobPortal\target\JobPortal.war F:\apache-tomcat-8.5.39\webapps
+ COPY C:\Users\Bhanu Prakaash Oleti\git\repository\JobPortal\target\JobPortal.war F:\apache-tomcat-8.5.39\webapps
